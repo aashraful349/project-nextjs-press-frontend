@@ -44,8 +44,6 @@ export function NewsSearchBar() {
 
             router.replace(`${pathname}?${params.toString()}`);
         }, 500)
-
-
     }
    
 
